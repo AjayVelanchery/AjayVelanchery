@@ -1,12 +1,12 @@
-## Hi there 👋
 
-🔭 I’m currently working on building **backend applications with Java and Spring Boot**, including projects like an **e-commerce platform with JWT authentication, Swagger documentation, Redis integration, and microservices**.
 
-🌱 I’m currently learning **Java (Core, OOP, Threads), Servlets, Thymeleaf, JDBC**, and advanced **Spring Boot concepts** such as **Microservices, Docker, CI/CD, and System Design**.
+🔭 Currently working on building **backend applications with Java and Spring Boot**, including projects like an **e-commerce platform with JWT authentication, Swagger documentation, Redis integration, and microservices**.
 
-👯 I’m looking to collaborate on **backend-focused projects** involving **REST APIs, Spring Boot microservices, and PostgreSQL**.
+🌱 Learning **Java (Core, OOP, Threads), Servlets, Thymeleaf, JDBC**, and advanced **Spring Boot concepts** such as **Microservices, Docker, CI/CD, and System Design**.
 
-🤔 I’m looking for help with **scaling applications, optimizing performance in real-world projects, and mastering DevOps practices**.
+👯 Looking to collaborate on **backend-focused projects** involving **REST APIs, Spring Boot microservices, and PostgreSQL**.
+
+🤔 Looking for help with **scaling applications, optimizing performance in real-world projects, and mastering DevOps practices**.
 
 💬 Ask me about **Java, Spring Boot, PostgreSQL, REST API design, JWT authentication, Docker, and backend best practices**.
 
